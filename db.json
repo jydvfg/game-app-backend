@@ -1,0 +1,26 @@
+{
+  "saved-games": [
+    {
+      "id": 1,
+      "name": "Game 1",
+      "image": "#",
+      "website": "#",
+      "rating": "78",
+      "description": "Game description",
+      "release-date": "09-23-2022",
+      "platforms": ["platform1", "platform2", "platform3"],
+      "genres": ["genre1", "genre2"]
+    },
+    {
+      "id": 1,
+      "name": "Game 2",
+      "image": "#",
+      "website": "#",
+      "rating": "78",
+      "description": "Game 2 description",
+      "release-date": "04-14-2021",
+      "platforms": ["platform1", "platform2"],
+      "genres": ["genre1"]
+    }
+  ]
+}
